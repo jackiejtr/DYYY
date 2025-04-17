@@ -1,7 +1,6 @@
 on:
   workflow_dispatch:
 name: build deb
-
 on: 
   push:
   pull_request:
